@@ -13,3 +13,10 @@ Modified by @trystanlea to use Emoncms model view controller framework.
 * Identify component stock bottle necks
 * Create shipping list of components
 
+![Components](screenshots/Emon ecDB.png)
+
+![Edit](screenshots/Emon ecDB_edit.png)
+
+![Make](screenshots/Emon ecDB_make.png)
+
+![Project](screenshots/Emon ecDB_project.png)
